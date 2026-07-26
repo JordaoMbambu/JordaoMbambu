@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">Jordao Mbambu</title>
+  <desc id="description">Systems, networks and cybersecurity banner with a network topology motif.</desc>
+
+  <rect width="1200" height="300" fill="#0d1117"/>
+  <rect x="1" y="1" width="1198" height="298" fill="none" stroke="#30363d" stroke-width="2"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#2daacb"/>
+
+  <g fill="none" stroke="#2daacb" stroke-width="2" opacity="0.38">
+    <path d="M860 58 L970 98 L1084 52"/>
+    <path d="M970 98 L913 184 L1040 224"/>
+    <path d="M970 98 L1082 146 L1040 224"/>
+    <path d="M913 184 L814 230"/>
+    <path d="M1082 146 L1142 228"/>
+  </g>
+
+  <g fill="#0d1117" stroke="#57c7e6" stroke-width="3">
+    <circle cx="860" cy="58" r="9"/>
+    <circle cx="1084" cy="52" r="9"/>
+    <circle cx="913" cy="184" r="9"/>
+    <circle cx="1082" cy="146" r="9"/>
+    <circle cx="1040" cy="224" r="9"/>
+    <circle cx="814" cy="230" r="9"/>
+    <circle cx="1142" cy="228" r="9"/>
+  </g>
+
+  <g transform="translate(970 98)">
+    <path d="M0 -48 L42 -24 L42 24 L0 48 L-42 24 L-42 -24 Z" fill="#151b23" stroke="#57c7e6" stroke-width="3"/>
+    <text x="0" y="10" fill="#f0f6fc" font-family="JetBrains Mono, Cascadia Code, Consolas, monospace" font-size="28" font-weight="700" text-anchor="middle">JM</text>
+  </g>
+
+  <g font-family="JetBrains Mono, Cascadia Code, Consolas, monospace">
+    <text x="72" y="78" fill="#57c7e6" font-size="17">jordaombambu@github:~$ whoami</text>
+    <text x="72" y="148" fill="#f0f6fc" font-size="50" font-weight="700">JORDÃO MBAMBU</text>
+    <text x="72" y="194" fill="#b7c5d3" font-size="21">SYSTEMS / NETWORKS / CYBERSECURITY</text>
+    <text x="72" y="242" fill="#7d8c9b" font-size="16">Infrastructure | Active Directory | Security tooling | CTF</text>
+  </g>
+</svg>
