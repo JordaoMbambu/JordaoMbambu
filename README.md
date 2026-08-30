@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://xn--jordombambu-c8a.com">
+  <a href="https://jordaombambu.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-0E7490?style=flat-square&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/jordaombambu">
