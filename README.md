@@ -36,6 +36,7 @@ technical notes and sanitized writeups.
 
 | Project | Purpose |
 |:--|:--|
+| [H1DorkCollector](https://github.com/JordaoMbambu/H1DorkCollector) | Automated HackerOne Hacktivity report-link collector. |
 | [Sublive](https://github.com/JordaoMbambu/Sublive) | Fast parallel subdomain alive checker that separates live, dead and errored targets. |
 | [eduroam-connect](https://github.com/JordaoMbambu/eduroam-connect) | Bash helper for Eduroam and other WPA/WPA2-Enterprise networks, with rfkill, EAP and clock/certificate diagnostics. |
 | [AD-Tools-Installer](https://github.com/JordaoMbambu/AD-Tools-Installer) | Automates the installation of Active Directory assessment tools for lab environments. |
